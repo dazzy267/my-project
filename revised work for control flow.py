@@ -105,3 +105,5 @@ print('\n')
 
 things, mass = zip(*manifest)
 print(things, mass)
+
+nigeria_states = ['abia', 'adamara', 'anambra','bauchi',' imo', 'kaduna']
