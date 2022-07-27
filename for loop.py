@@ -147,5 +147,10 @@ list = (list(zip(items, weight)))
 print(list)
 
 for cargo in zip(items,weight):
-    print(cargo[0], cargo[1
-
+        print(cargo[0], cargo[1])
+names = ['james', 'confidence', 'victory', 'mesoma']
+if len(names) > 10:
+    print('i cannot access this')
+else:
+    for i in names:
+        print(i.title())
