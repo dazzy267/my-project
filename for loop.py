@@ -104,7 +104,7 @@ for i in range(1,7):
 print(result)
 
 
-num_list = [422, 136, 524, 85, 96, 719, 85, 92, 10, 17, 312, 542, 87, 23, 86, 191, 116, 35, 173, 45, 149, 59, 84, 69, 113, 166]
+num_list = [412, 136, 524, 85, 96, 719, 85, 92, 10, 17, 312, 542, 87, 23, 86, 191, 116, 35, 173, 45, 149, 59, 84, 69, 113, 167]
 
 count_odd = 0
 list_sum = 0
@@ -153,4 +153,4 @@ if len(names) > 10:
     print('i cannot access this')
 else:
     for i in names:
-        print(i.title())
+        print(i)
