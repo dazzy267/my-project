@@ -120,7 +120,7 @@ while (count_odd < 5) and (i < len_num_list):
 print ("The numbers of odd numbers added are: {}".format(count_odd))
 print ("The sum of the odd numbers added is: {}".format(list_sum))
 
-manifest = [("bananas",15), ("mattresses",24), ("dog kennels", 42), ("machine",120), ("cheese",5)]
+manifest = [("bananas",15), ("mattresses",24), ("dog kennels", 42), ("machine",125), ("cheese",5)]
 weight = 0
 item = []
 for cargo in manifest:
