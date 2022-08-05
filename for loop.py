@@ -153,4 +153,4 @@ if len(names) > 10:
     print('i cannot access this')
 else:
     for i in names:
-        print(i)
+        print(i.title())
