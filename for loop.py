@@ -39,7 +39,7 @@ for name in names:
 
 print(names)
 
-card_deck = [4,11,8,5,13,2,8,10]
+card_deck = [4,11,10,5,14,2,8,10]
 hand =[]
 while sum(hand) <= 17:
     hand.append(card_deck.pop())
