@@ -39,7 +39,7 @@ for name in names:
 
 print(names)
 
-card_deck = [4,11,8,5,13,2,8,10]
+card_deck = [4,11,10,5,14,2,8,10]
 hand =[]
 while sum(hand) <= 17:
     hand.append(card_deck.pop())
@@ -120,7 +120,7 @@ while (count_odd < 5) and (i < len_num_list):
 print ("The numbers of odd numbers added are: {}".format(count_odd))
 print ("The sum of the odd numbers added is: {}".format(list_sum))
 
-manifest = [("bananas",15), ("mattresses",24), ("dog kennels", 42), ("machine",120), ("cheese",5)]
+manifest = [("bananas",15), ("mattresses",24), ("dog kennels", 42), ("machine",125), ("cheese",5)]
 weight = 0
 item = []
 for cargo in manifest:

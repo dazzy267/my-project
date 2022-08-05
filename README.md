@@ -8,4 +8,5 @@ it now includes steps for github
 
 The world is always so beautiful
 
-GOD made it so wonderful i guess
+GOD made it so wonderful
+i wanted to sing a lovely song but i can't because my love is gone
